@@ -4,8 +4,12 @@
 format: jb-book
 root: intro
 chapters:
+<<<<<<< HEAD
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
 - file: tugas-2-vsm
 - file: tugas-1-crawling
+=======
+- file: tugas-2-vsm
+>>>>>>> 23ae7d6d77550f16f64d1ab8ea86b408cdcbe92b
